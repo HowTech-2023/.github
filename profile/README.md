@@ -1,10 +1,10 @@
 ## Hi there 👋
-
+We are establishing this organisation for our SST annual InnoFest 2023.
 <!--
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - We are establishing this organisation for our SST annual InnoFest 2023.
+🙋‍♀️ A short introduction - 
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
